@@ -1,0 +1,19 @@
+{
+	"pokedek": [{
+		"nombre": "bulbasaur",
+		"nro": "001",
+		"tipo": "planta"
+	}, {
+		"nombre": "Ivysaur",
+		"nro": "002",
+		"tipo": "planta"
+	}, {
+		"nombre": "Venusaur",
+		"nro": "003",
+		"tipo": "planta"
+	}, {
+		"nombre": "Charmander",
+		"nro": "004",
+		"tipo": "fuego"
+	}]
+}
