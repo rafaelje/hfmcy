@@ -15,5 +15,10 @@
 		"nombre": "Charmander",
 		"nro": "004",
 		"tipo": "fuego"
+	}, 
+	{
+		"nombre": "Venonat",
+		"nro": "005",
+		"tipo": "venenoso"
 	}]
 }
